@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WTest</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home Fragment</string>
+
+
+    <string name="error_on_onDowload">Failed, try again later</string>
+    <string name="search">Search</string>
+    <string name="downloading">Downloading data</string>
+    <string name="download_time_limit_exceed">Download time limit exceed</string>
+    <string name="not_possible_start_download">Not possible start download</string>
+    <string name="new_notification">Nova notificação</string>
+    <string name="downloaded_with_success">Donwload success</string>
+    <string name="there_was_fail_try_again">There was a fail try again</string>
+    <string name="no_internet_signal">No Internet signal</string>
+    <string name="no_server_response">No server response</string>
+    <string name="review_your_permissions_in_settings">Review you storage permission</string>
+    <string name="go_to_permissions">Go to permissions</string>
+    <string name="downloading_progress_percent">Downloading %d%%</string>
+    <string name="checking">Checking data</string>
+    <string name="populating_database">Populating database</string>
+
+</resources>

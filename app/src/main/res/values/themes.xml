@@ -1,0 +1,34 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WTest" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_dark_1</item> <!-- Toolbar e AppBar -->
+        <item name="colorOnPrimary">@color/white</item> <!-- Text and Icons -->
+        <item name="colorPrimaryVariant">@color/blue_variant</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue</item> <!-- Buttons -->
+        <item name="colorOnSecondary">@color/white</item> <!-- Text and Icons Buttons -->
+        <item name="colorSecondaryVariant">@color/blue_light</item>
+
+        <!-- Surface color. -->
+        <item name="colorSurface">@color/white</item> <!-- Cards -->
+        <item name="colorOnSurface">@color/blue_dark_1</item> <!-- Content Cards -->
+        <item name="colorSurfaceVariant">@color/blue_light</item>
+        <item name="colorOnSurfaceVariant">@color/blue</item>
+
+
+        <!-- Background color. -->
+        <item name="android:windowBackground">@color/gray_light</item>
+        <item name="backgroundColor">@color/gray_light</item>
+
+        <!-- Status bar color. -->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.WTest" parent="Base.Theme.WTest" />
+</resources>
